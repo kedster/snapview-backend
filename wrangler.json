@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "snapview-backend",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "01f54cd2-beef-4e15-9438-2871c9848ee6",
+      "database_name": "snapview-db2"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
